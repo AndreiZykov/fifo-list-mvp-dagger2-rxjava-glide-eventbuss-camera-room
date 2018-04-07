@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="reservation_list_card_height">80dp</dimen>
+    <dimen name="reservation_list_card_profile_picture_width">60dp</dimen>
+    <dimen name="reservation_list_card_profile_picture_height">92dp</dimen>
+</resources>

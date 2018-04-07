@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FifoList</string>
+    <string name="reservation_list_adapter_name">Name</string>
+    <string name="reservation_list_adapter_tel">Tel</string>
+    <string name="add_reservation">Add Reservation</string>
+    <string name="full_name">Full name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="fragment_reservation_details_button_title_save">Save</string>
+    <string name="fragment_reservation_details_button_title_remove">Remove</string>
+    <string name="fragment_reservation_details_new_reservation_title">New Reservation</string>
+    <string name="fragment_reservation_details_update_reservation_title">Update Reservation</string>
+    <string name="fragment_reservation_details_remove_success_dialog_title">Success</string>
+    <string name="fragment_reservation_details_remove_success_dialog_message">Reservation has been successfully removed</string>
+    <string name="fragment_reservation_details_remove_error_dialog_title">Error</string>
+    <string name="fragment_reservation_details_error_removing_reservation_dialog_message">Can not remove reservation</string>
+    <string name="fragment_reservation_details_error_saving_reservation_dialog_message">Can not save reservation</string>
+    <string name="fragment_reservation_details_save_success_dialog_title">Success</string>
+    <string name="fragment_reservation_details_save_success_dialog_message">Reservation has been successfully saved</string>
+    <string name="fragment_reservation_details_confirm_remove_reservation_title">Remove Reservation</string>
+    <string name="fragment_reservation_details_confirm_remove_reservation_message">Do you want to remove this reservation?</string>
+    <string name="permissions_denied">Permission Denied</string>
+    <string name="permission_denied_message">Can not add images with out camera permission</string>
+    <string name="fragment_reservation_list_title">Reservation List</string>
+    <string name="fragment_reservation_details_edit_image_edit_button">Edit</string>
+    <string name="fragment_reservation_details_edit_image_remove_button">Remove</string>
+    <string name="fragment_reservation_details_edit_image_options_dialog_title">Image Options</string>
+    <string name="fragment_reservation_details_edit_image_options_dialog_message">Do you want to edit reservation image?</string>
+    <string name="fragment_reservation_details_permissions_deny">Permissions required to work with camera</string>
+    <string name="fragment_reservation_details_camera_error">Can not save immage</string>
+    <string name="fragment_reservation_list_can_not_refresh_list">Can not find reservation</string>
+</resources>
