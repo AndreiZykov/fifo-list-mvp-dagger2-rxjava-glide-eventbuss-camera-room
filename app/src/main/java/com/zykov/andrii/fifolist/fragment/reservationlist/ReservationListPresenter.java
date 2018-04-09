@@ -5,7 +5,6 @@ import android.content.Context;
 import com.zykov.andrii.fifolist.R;
 import com.zykov.andrii.fifolist.db.FifoListDataBase;
 import com.zykov.andrii.fifolist.db.dao.ReservationDao;
-import com.zykov.andrii.fifolist.db.entity.ReservationEntity;
 import com.zykov.andrii.fifolist.event.ReservationDataUpdateEvent;
 
 import org.greenrobot.eventbus.EventBus;
@@ -14,10 +13,7 @@ import org.greenrobot.eventbus.ThreadMode;
 
 import javax.inject.Inject;
 
-import java.util.List;
-import java.util.ArrayList;
 import io.reactivex.android.schedulers.AndroidSchedulers;
-import io.reactivex.functions.Function;
 import io.reactivex.schedulers.Schedulers;
 
 public class ReservationListPresenter implements IReservationListView.IReservationListContract {
